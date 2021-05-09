@@ -1,12 +1,7 @@
-Package       Version
-------------- -------------------
-certifi       2020.12.5
-DBUtils       2.0
-pip           21.0.1
-PyMySQL       1.0.2
-pytz          2021.1
-redis         3.5.3
-setuptools    52.0.0.post20210125
-tornado       6.1
-Tornado-MySQL 0.5.1
-wheel         0.36.2
+certifi==2020.12.5
+DBUtils==2.0
+PyMySQL==1.0.2
+pytz==2021.1
+redis==3.5.3
+tornado==6.1
+Tornado-MySQL==0.5.1

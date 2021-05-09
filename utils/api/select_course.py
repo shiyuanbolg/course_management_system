@@ -71,3 +71,49 @@ class UserDeleteCourse(BaseHandler,CommonResponseMixin):
             except Exception as e:
                 data = self.wrap_json_response(code=-100)
                 return self.write(data)
+
+class UserShowCourse(BaseHandler,CommonResponseMixin):
+    '''本接口为用户展示课程接口'''
+    @gen.coroutine
+    @token_required_argment
+    def get(self):
+            log = self.get_log_handler()
+            try:
+                user_id = self.get_argument("user_id", None)
+                if not user_id or not user_id:
+                    data = self.wrap_json_response(code=-100)
+                    return self.write(data)
+                try:
+                    table_name = "user2course"
+                    sql = '''select a.course_id from {} a where a.flag=1 and a.user_id = {}'''.format(table_name,user_id)
+                    res = self.find_all(sql)
+                    if not res:
+                        data = self.wrap_json_response(code=0)
+                        return self.write(data)
+                    res_data = []
+                    for ans in res:
+                        table_name = "course"
+                        course_id = int(ans['course_id'])
+                        sql = '''select a.course_name,a.coach_id,a.comments  from {} a where a.flag=1 and a.course_id = {}'''.format(table_name, course_id)
+                        res1 = self.find_one(sql)
+                        if not res1 :
+                            data = self.wrap_json_response(code=0)
+                            return self.write(data)
+                        coach_id = int(res1['coach_id'])
+                        sql = '''select a.user_name ,a.phone_num from coachs a where a.flag=1 and a.id = {}'''.format( coach_id)
+                        res2 = self.find_one(sql)
+                        if not res2 :
+                            data = self.wrap_json_response(code=0)
+                            return self.write(data)
+                        print(res2)
+                        res1.pop("coach_id")
+                        res_data.append(dict(res1,**res2))
+                    data = self.wrap_json_response(code=0,data=res_data)
+                    return self.write(data)
+                except Exception as e:
+                    print(e)
+                    data = self.wrap_json_response(code=-100)
+                    return self.write(data)
+            except Exception as e:
+                data = self.wrap_json_response(code=-100)
+                return self.write(data)

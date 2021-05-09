@@ -20,6 +20,8 @@ handlers = [
     #用户选课
     (r"/api/user_add_course", select_course.UserAddCourse),
     (r"/api/user_delete_course", select_course.UserDeleteCourse),
+    (r"/api/user_show_course", select_course.UserShowCourse),
+
 
 
 
