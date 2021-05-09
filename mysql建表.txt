@@ -1,0 +1,70 @@
+CREATE TABLE course(
+    course_id INT UNSIGNED NOT NULL,
+    course_name VARCHAR(255) DEFAULT NULL,
+    coach_id INT UNSIGNED NOT NULL,
+    flag tinyint NOT NULL DEFAULT 0,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    index (coach_id)
+)ENGINE = InnoDB DEFAULT CHARSET = utf8;
+
+CREATE TABLE lesson_time(
+    course_id INT UNSIGNED NOT NULL,
+    begin_day VARCHAR(255) DEFAULT NULL,
+    end_day VARCHAR(255) DEFAULT NULL,
+    week_num INT UNSIGNED NOT NULL,
+    week_day INT UNSIGNED NOT NULL,
+    day_section_begin INT UNSIGNED NOT NULL,
+    day_section_end INT UNSIGNED NOT NULL,
+    flag tinyint NOT NULL DEFAULT 0,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    index (course_id)
+)ENGINE = InnoDB DEFAULT CHARSET = utf8;
+
+
+CREATE TABLE administer(
+    user_name VARCHAR(255) DEFAULT NULL,
+    admin_id INT UNSIGNED NOT NULL,
+    hashed_password VARCHAR(255) DEFAULT NULL,
+    comments  VARCHAR(255) DEFAULT NULL,
+    flag tinyint NOT NULL DEFAULT 0,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    index(admin_id)
+)ENGINE = InnoDB DEFAULT CHARSET = utf8;
+
+CREATE TABLE coachs(
+    user_name VARCHAR(255) DEFAULT NULL,
+    coach_id INT UNSIGNED NOT NULL,
+    hashed_password VARCHAR(255) DEFAULT NULL,
+    comments  VARCHAR(255) DEFAULT NULL,
+    flag tinyint NOT NULL DEFAULT 0,
+    phone_num VARCHAR(255) DEFAULT NULL,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    index(coach_id)
+)ENGINE = InnoDB DEFAULT CHARSET = utf8;
+
+CREATE TABLE users(
+    user_name VARCHAR(255) DEFAULT NULL,
+    user_id INT UNSIGNED NOT NULL,
+    hashed_password VARCHAR(255) DEFAULT NULL,
+    comments  VARCHAR(255) DEFAULT NULL,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    phone_num VARCHAR(255) DEFAULT NULL,
+    flag tinyint NOT NULL DEFAULT 0,
+    index(user_id)
+)ENGINE = InnoDB DEFAULT CHARSET = utf8;
+
+CREATE TABLE coach2course(
+    user_id INT UNSIGNED NOT NULL,
+    course_id INT UNSIGNED NOT NULL,
+    flag tinyint NOT NULL DEFAULT 0,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    index(user_id)
+)ENGINE = InnoDB DEFAULT CHARSET = utf8;
+
+CREATE TABLE user2course(
+    user_id INT UNSIGNED NOT NULL,
+    course_id INT UNSIGNED NOT NULL,
+    flag tinyint NOT NULL DEFAULT 0,
+    id INT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    index(user_id)
+)ENGINE = InnoDB DEFAULT CHARSET = utf8;

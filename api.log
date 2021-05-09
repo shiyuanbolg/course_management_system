@@ -1,0 +1,547 @@
+2021-04-05 21:51:54,658 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:55,713 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:55,713 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:57,066 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:57,066 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:57,066 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:58,477 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:58,477 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:58,477 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 21:51:58,477 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:04:56,260 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:04:56,260 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:04:56,260 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:04:56,260 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:04:56,260 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:11,531 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:11,531 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:11,531 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:11,531 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:11,531 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:11,531 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:13,497 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:13,497 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:13,497 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:13,497 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:13,497 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:13,497 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:13,497 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:05:35,993 api_log auth.py[line:73] ERROR 'password'
+2021-04-05 22:06:01,313 api_log auth.py[line:72] ERROR 'password'
+2021-04-05 22:06:02,509 api_log auth.py[line:72] ERROR 'password'
+2021-04-05 22:06:02,509 api_log auth.py[line:72] ERROR 'password'
+2021-04-05 22:07:06,689 api_log auth.py[line:72] ERROR 'password'
+2021-04-05 22:07:06,689 api_log auth.py[line:72] ERROR 'password'
+2021-04-05 22:07:06,689 api_log auth.py[line:72] ERROR 'password'
+2021-04-05 22:07:24,697 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:24,697 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:24,697 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:24,697 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:26,101 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:26,101 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:26,101 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:26,101 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:26,101 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:27,174 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:27,174 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:27,174 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:27,174 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:27,174 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:27,174 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:28,214 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:28,214 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:28,214 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:28,214 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:28,214 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:28,214 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:28,214 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:29,164 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,030 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:07:30,794 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:15:09,745 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:15:12,637 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:15:12,637 api_log auth.py[line:69] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 22:15:16,983 api_log auth.py[line:72] ERROR Expecting ':' delimiter: line 3 column 9 (char 35)
+2021-04-05 22:15:16,983 api_log auth.py[line:72] ERROR Expecting ':' delimiter: line 3 column 9 (char 35)
+2021-04-05 22:15:16,983 api_log auth.py[line:72] ERROR Expecting ':' delimiter: line 3 column 9 (char 35)
+2021-04-05 22:15:34,605 api_log auth.py[line:72] ERROR Expecting ':' delimiter: line 3 column 9 (char 35)
+2021-04-05 22:15:46,413 api_log auth.py[line:72] ERROR Expecting ':' delimiter: line 3 column 9 (char 35)
+2021-04-05 23:00:58,462 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:02:14,565 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:02:31,544 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:56,179 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:56,179 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:57,179 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:57,179 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:57,179 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:57,881 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:57,881 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:57,881 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:57,881 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:58,719 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:58,719 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:58,719 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:58,719 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:58,719 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:59,578 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:59,578 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:59,578 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:59,578 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:59,578 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-05 23:07:59,578 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:07:46,422 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:16:20,510 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:16:24,288 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:16:24,288 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:17:11,532 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:17:34,249 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:17:35,772 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:17:35,772 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:17:36,634 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:17:36,634 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:17:36,634 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:19:52,803 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:19:56,991 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:19:56,991 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:19:57,843 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:19:57,843 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:19:57,843 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:36:08,625 api_log auth.py[line:78] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:48:50,395 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:49:36,985 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:49:43,548 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:49:43,548 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:49:44,550 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:49:44,550 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:49:44,550 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:50:00,838 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:51:12,426 api_log auth.py[line:81] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 09:53:05,906 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:11,003 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:11,003 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:12,430 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:12,430 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:12,430 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:13,837 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:13,837 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:13,837 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:03:13,837 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:21,824 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:21,824 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:21,824 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:21,824 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:21,824 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:23,659 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:23,659 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:23,659 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:23,659 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:23,659 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:23,659 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:26,423 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:26,423 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:26,423 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:26,423 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:26,423 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:26,423 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:28:26,423 api_log auth.py[line:80] INFO {'user_name': 'shiyuan', 'password': 'shiyuan123456'}
+2021-04-06 10:35:04,820 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:09,726 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:09,726 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:10,435 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:10,435 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:10,435 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,142 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,142 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,142 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,142 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,778 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,778 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,778 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,778 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:11,778 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:12,428 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:12,428 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:12,428 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:12,428 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:12,428 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:12,428 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,106 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,106 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,106 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,106 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,106 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,106 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,106 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:13,696 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:14,258 api_log auth.py[line:82] ERROR (1062, "Duplicate entry 'shiyuan' for key 'users.unique_name'")
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:35:23,838 api_log auth.py[line:79] INFO {'user_name': 'wangsi', 'password': 'shiyuan123456'}
+2021-04-06 10:36:40,688 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'wangsi' for key 'users.unique_name'")
+2021-04-06 10:36:46,523 api_log auth.py[line:79] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456'}
+2021-04-06 10:36:46,523 api_log auth.py[line:79] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456'}
+2021-04-06 10:36:52,328 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:52,328 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:52,328 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:55,820 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:55,820 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:55,820 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:55,820 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:56,482 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:56,482 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:56,482 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:56,482 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:56,482 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:57,176 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:57,176 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:57,176 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:57,176 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:57,176 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:36:57,176 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:26,016 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:28,000 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:28,000 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:28,927 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:28,927 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:28,927 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:29,777 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:29,777 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:29,777 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:29,777 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:30,410 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:30,410 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:30,410 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:30,410 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:30,410 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,046 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,046 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,046 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,046 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,046 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,046 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,684 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,684 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,684 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,684 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,684 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,684 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:31,684 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:40:32,274 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:46:52,248 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:46:53,494 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:46:53,494 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:47:07,542 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:47:08,460 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:47:08,460 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:47:09,126 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:47:09,126 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-06 10:47:09,126 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-11 16:43:59,789 api_log auth.py[line:83] ERROR (1062, "Duplicate entry 'zhangsan' for key 'users.unique_name'")
+2021-04-12 08:08:31,485 api_log auth.py[line:104] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'id': 1}
+2021-04-12 08:08:59,858 api_log auth.py[line:116] ERROR Expecting ',' delimiter: line 5 column 2 (char 81)
+2021-04-12 08:08:59,858 api_log auth.py[line:116] ERROR Expecting ',' delimiter: line 5 column 2 (char 81)
+2021-04-12 08:11:21,711 api_log auth.py[line:117] ERROR Expecting ',' delimiter: line 5 column 2 (char 81)
+2021-04-12 08:12:12,450 api_log auth.py[line:119] ERROR Expecting ',' delimiter: line 5 column 2 (char 81)
+2021-04-12 08:12:27,254 api_log auth.py[line:119] ERROR 'id'
+2021-04-12 08:12:27,254 api_log auth.py[line:119] ERROR 'id'
+2021-04-12 08:12:52,092 api_log auth.py[line:110] ERROR (1054, "Unknown column 'admin_name' in 'field list'")
+2021-04-12 09:24:49,189 api_log auth.py[line:106] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': '123456', 'choice': 2}
+2021-04-12 09:24:56,000 api_log auth.py[line:106] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': '123456', 'choice': 1}
+2021-04-12 09:24:56,000 api_log auth.py[line:106] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': '123456', 'choice': 1}
+2021-04-12 09:24:59,974 api_log auth.py[line:106] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': '123456', 'choice': 3}
+2021-04-12 09:24:59,974 api_log auth.py[line:106] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': '123456', 'choice': 3}
+2021-04-12 09:24:59,974 api_log auth.py[line:106] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': '123456', 'choice': 3}
+2021-04-12 09:37:29,925 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:32,008 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:32,008 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:33,460 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:33,460 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:33,460 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:39,389 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:39,389 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:39,389 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:37:39,389 api_log auth.py[line:110] ERROR yielded unknown object 1
+2021-04-12 09:38:54,080 api_log auth.py[line:104] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 10:34:51,097 api_log auth.py[line:125] ERROR yielded unknown object 'ok'
+2021-04-12 11:18:39,716 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:40,642 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:40,642 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:41,345 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:41,345 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:41,345 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:41,807 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:41,807 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:41,807 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:41,807 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,258 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,258 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,258 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,258 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,258 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,748 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,748 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,748 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,748 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,748 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:42,748 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,198 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,198 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,198 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,198 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,198 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,198 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,198 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:43,664 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,197 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:44,575 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,502 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:45,861 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,250 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:46,711 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 11:18:47,162 api_log auth.py[line:127] ERROR 'Register' object has no attribute 'gen'
+2021-04-12 13:47:30,262 api_log auth.py[line:109] ERROR yielded unknown object 1
+2021-04-12 13:47:32,771 api_log auth.py[line:109] ERROR yielded unknown object 1
+2021-04-12 13:47:32,771 api_log auth.py[line:109] ERROR yielded unknown object 1
+2021-04-12 13:49:19,359 api_log auth.py[line:105] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 13:49:22,126 api_log auth.py[line:105] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 13:49:22,126 api_log auth.py[line:105] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 13:49:24,111 api_log auth.py[line:105] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 13:49:24,111 api_log auth.py[line:105] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 13:49:24,111 api_log auth.py[line:105] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 18:32:11,091 api_log auth.py[line:125] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 18:33:10,495 api_log auth.py[line:109] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 18:54:16,731 api_log auth.py[line:69] ERROR 'SignIn' object has no attribute 'findone'
+2021-04-12 19:09:17,693 api_log auth.py[line:69] ERROR 0
+2021-04-12 19:09:26,209 api_log auth.py[line:69] ERROR 0
+2021-04-12 19:09:26,209 api_log auth.py[line:69] ERROR 0
+2021-04-12 19:09:49,351 api_log auth.py[line:69] ERROR 0
+2021-04-12 19:09:56,446 api_log auth.py[line:69] ERROR 0
+2021-04-12 19:09:56,446 api_log auth.py[line:69] ERROR 0
+2021-04-12 19:10:50,608 api_log auth.py[line:68] ERROR 0
+2021-04-12 19:14:56,487 api_log auth.py[line:112] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 19:14:57,418 api_log auth.py[line:112] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-12 19:14:57,418 api_log auth.py[line:112] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:25,231 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:25,231 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:30,112 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:30,112 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:30,112 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:31,494 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:31,494 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:31,494 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:31,494 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,222 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,222 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,222 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,222 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,222 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,878 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,878 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,878 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,878 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,878 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:32,878 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:33,610 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:33,610 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:33,610 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:33,610 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:33,610 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:33,610 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:33,610 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:08:34,325 api_log auth.py[line:111] INFO {'user_name': 'zhangsan', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 3}
+2021-04-17 11:54:07,343 api_log auth.py[line:107] INFO {'user_name': '1', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 2}
+2021-04-17 11:54:12,252 api_log auth.py[line:107] INFO {'user_name': '2', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 2}
+2021-04-17 11:54:12,252 api_log auth.py[line:107] INFO {'user_name': '2', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 2}
+2021-04-17 11:54:16,176 api_log auth.py[line:107] INFO {'user_name': '3', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 2}
+2021-04-17 11:54:16,176 api_log auth.py[line:107] INFO {'user_name': '3', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 2}
+2021-04-17 11:54:16,176 api_log auth.py[line:107] INFO {'user_name': '3', 'password': 'shiyuan123456', 'phone_num': 'sss', 'choice': 2}
+2021-04-18 13:57:00,939 api_log add_course.py[line:29] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:09:30,671 api_log add_course.py[line:29] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:22,155 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:25,762 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:25,762 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:26,702 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:26,702 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:26,702 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:27,821 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:27,821 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:27,821 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:27,821 api_log add_course.py[line:39] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:21:56,526 api_log add_course.py[line:40] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:23:16,602 api_log add_course.py[line:40] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:25:49,720 api_log add_course.py[line:38] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:25:51,074 api_log add_course.py[line:38] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:25:51,074 api_log add_course.py[line:38] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:25:51,791 api_log add_course.py[line:38] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:25:51,791 api_log add_course.py[line:38] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:25:51,791 api_log add_course.py[line:38] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:28:23,382 api_log add_course.py[line:40] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:37:59,367 api_log add_course.py[line:45] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:38:44,527 api_log add_course.py[line:45] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:38:44,527 api_log add_course.py[line:45] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:39:09,028 api_log add_course.py[line:46] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00'}]}
+2021-04-18 14:40:17,835 api_log add_course.py[line:48] ERROR (1364, "Field 'course_id' doesn't have a default value")
+2021-04-18 14:40:53,692 api_log add_course.py[line:49] ERROR (1364, "Field 'course_id' doesn't have a default value")
+2021-04-18 14:42:32,067 api_log add_course.py[line:52] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1}]}
+2021-04-18 14:43:13,131 api_log add_course.py[line:53] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '0fbe014d-aa51-45bf-a153-60fae3569fba', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:26:15,870 api_log add_course.py[line:53] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:26:15,870 api_log add_course.py[line:53] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:34:05,086 api_log add_course.py[line:60] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:34:39,802 api_log add_course.py[line:59] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:35:19,646 api_log add_course.py[line:59] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:36:11,518 api_log add_course.py[line:59] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:37:02,576 api_log add_course.py[line:59] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:37:44,257 api_log add_course.py[line:59] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-04-18 18:39:56,339 api_log add_course.py[line:62] INFO {'course_name': '健身课1', 'coach_id': 1, 'comments': '本课是为了更好地锻炼学生身体。', 'token': '00b9f551-a8a2-45d8-b46d-42530ca2a367', 'lesson_time': [{'begin_day': '2021-04-01', 'end_day': '2021-06-01', 'week_day': 3, 'day_section_begin': '09:00:00', 'day_section_end': '11:00:00', 'course_id': 1, 'flag': 1}]}
+2021-05-08 15:33:59,945 api_log add_course.py[line:48] ERROR (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '['course_id', 'coach_id', 'flag']) VALUES(1,'1',1)' at line 1")
+2021-05-08 18:55:34,057 api_log auth.py[line:167] ERROR int() argument must be a string, a bytes-like object or a number, not 'NoneType'
+2021-05-08 19:09:14,567 api_log auth.py[line:169] ERROR (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''course_id': 1}' at line 1")
+2021-05-08 19:10:17,054 api_log auth.py[line:170] ERROR (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''course_id': 1}' at line 1")
+2021-05-08 19:11:51,466 api_log auth.py[line:170] ERROR (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''course_id': 1} and flag = 1' at line 1")
+2021-05-08 19:12:34,562 api_log auth.py[line:169] ERROR Replacement index 1 out of range for positional args tuple
+2021-05-08 19:14:37,088 api_log auth.py[line:170] ERROR (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''course_id': 1} and flag = 1' at line 1")
+2021-05-08 19:44:00,965 api_log select_course.py[line:36] ERROR (1054, "Unknown column 'user_id' in 'field list'")
