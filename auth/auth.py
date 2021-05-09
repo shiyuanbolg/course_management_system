@@ -80,7 +80,31 @@ class Register(BaseHandler,CommonResponseMixin):
             data = json.loads(self.request.body)
             try:
                 res = {}
+
                 user_name = data["user_name"]
+                try:
+                    sql = '''select user_name from users'''
+                    res1 = self.find_all(sql)
+                    for i in res1:
+                        if i['user_name'] == user_name:
+                            data = self.wrap_json_response(code=-100)
+                            return self.write(data)
+                    sql = '''select user_name from coachs'''
+                    res1 = self.find_all(sql)
+                    for i in res1:
+                        if i['user_name'] == user_name:
+                            data = self.wrap_json_response(code=-100)
+                            return self.write(data)
+                    sql = '''select user_name from administer'''
+                    res1 = self.find_all(sql)
+                    for i in res1:
+                        if i['user_name'] == user_name:
+                            data = self.wrap_json_response(code=-100)
+                            return self.write(data)
+                except Exception as e:
+                    log.logger.error(e)
+                    data = self.wrap_json_response(code=-100)
+                    return self.write(data)
                 password = data["password"]
                 choice = data["choice"]
                 m = hashlib.md5()
@@ -104,6 +128,7 @@ class Register(BaseHandler,CommonResponseMixin):
                 sql = '''INSERT INTO {}({}) VALUES({})'''.format(table_name,insert_keys, str_join)
                 try:
                     yield  self.insert_one(sql,insert_values)
+
                     log.logger.info(data)
                     data = self.wrap_json_response(code=0)
                     return self.write(data)
